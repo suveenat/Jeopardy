@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/thanawal_CSCI201L_Assignment4"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<contentEntry url="jar://$MODULE_DIR$/mysql-connector-java-5.0.8-bin.jar!/"/>
+	<levels>
+		<level name="mysql-connector-java-5.0.8-bin" value="project"/>
+	</levels>
+</component>
