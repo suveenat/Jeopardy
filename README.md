@@ -1,10 +1,3 @@
-# Assignment 4: Suveena Thanawala
-
-Email: thanawal@usc.edu
-
-ID: 4894177800
-
-
 **Notes:**
 - When on the start screen, because of the way that the document listener is written in the solution code, if you click away from a screen, you might have to add to the TextField (a space, or random character) for the start button to become enabled
 
